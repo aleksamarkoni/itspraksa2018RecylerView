@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="gesture_picture">Gesture picture for the recycler view item</string>
+    <string name="title_activity_enter_person_data">EnterPersonData</string>
+</resources>
